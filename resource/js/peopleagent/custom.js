@@ -201,15 +201,15 @@ function refresh() {
 }
 
 function goSignIn() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/signIn");
+  location.assign(document.getElementById("contextPath").value + "/mobile/signIn.html");
 }
 
 function goSignUp() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/signUp");
+  location.assign(document.getElementById("contextPath").value + "/mobile/signUp.html");
 }
 
 function goLogout() {
-  location.assign(document.getElementById("contextPath").value + "/logout");
+  location.assign(document.getElementById("contextPath").value + "/logout.html");
 }
 
 function goHall() {
@@ -217,99 +217,99 @@ function goHall() {
 }
 
 function goCenter() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/center");
+  location.assign(document.getElementById("contextPath").value + "/mobile/center.html");
 }
 
 function goRule() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/rule");
+  location.assign(document.getElementById("contextPath").value + "/mobile/rule.html");
 }
 
 function goPromotion() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/promotion");
+  location.assign(document.getElementById("contextPath").value + "/mobile/promotion.html");
 }
 
 function goCustomerService() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/customer-service");
+  location.assign(document.getElementById("contextPath").value + "/mobile/customer-service.html");
 }
 
 function goLotteryRecord() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/lottery-record");
+  location.assign(document.getElementById("contextPath").value + "/mobile/lottery-record.html");
 }
 
 function goOrderList() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/order_list");
+  location.assign(document.getElementById("contextPath").value + "/mobile/order_list.html");
 }
 
 function goPersonalCenter() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/center");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/center.html");
 }
 
 function goDeposit() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/deposit");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/deposit.html");
 }
 
 function goWithdraw() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/withdraw");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/withdraw.html");
 }
 
 function goTransfer() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/transfer");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/transfer.html");
 }
 
 function goDwRecord() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/dwRecord");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/dwRecord.html");
 }
 
 function goAcRecord() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/acRecord");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/acRecord.html");
 }
 
 function goTRecord() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/tRecord");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/tRecord.html");
 }
 
 function goGameWater() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/gameWater");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/gameWater.html");
 }
 
 function goChangeLoginPassword() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/changeLoginPassword");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/changeLoginPassword.html");
 }
 
 function goChangeWithdrawPassword() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/changeWithdrawPassword");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/changeWithdrawPassword.html");
 }
 
 function goBankCardManagement() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/bankCardManagement");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/bankCardManagement.html");
 }
 
 function goBindBankCard() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/bindBankCard");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/bindBankCard.html");
 }
 
 function goViewRolling() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/viewRolling");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/viewRolling.html");
 }
 
 function goTbRecord() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/tbRecord");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/tbRecord.html");
 }
 
 function goSubordinateAccount() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/subordinateAccount");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/subordinateAccount.html");
 }
 
 function goAccountBonus() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/accountBonus");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/accountBonus.html");
 }
 
 function goTeamManagement() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/agentMember");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/agentMember.html");
 }
 
 function goTeamReport() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/personal/teamReport");
+  location.assign(document.getElementById("contextPath").value + "/mobile/personal/teamReport.html");
 }
 
 function goLottery(gameType, lottery) {
@@ -317,11 +317,11 @@ function goLottery(gameType, lottery) {
 }
 
 function goGameMenuChess() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/game-menu-chess");
+  location.assign(document.getElementById("contextPath").value + "/mobile/game-menu-chess.html");
 }
 
 function goGameMenuLottery() {
-  location.assign(document.getElementById("contextPath").value + "/mobile/game-menu-lottery");
+  location.assign(document.getElementById("contextPath").value + "/mobile/game-menu-lottery.html");
 }
 
 function refreshValidateCode() {
